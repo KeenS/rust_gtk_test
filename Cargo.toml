@@ -2,6 +2,7 @@
 name = "rust_gtk_test"
 version = "0.1.0"
 authors = ["miyagaw61 <miyagaw61@gmail.com>"]
+edition = "2018"
 
 [dependencies]
 gdk = "*"
